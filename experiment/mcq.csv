@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is generative artificial intelligence (generative AI)?,"a: AI that can generate text, images, or other media | b: AI that can only generate text | c: AI that can only generate images | d: AI that can only generate media","AI that can generate text, images, or other media"
-Which type of deep neural networks enabled generative AI systems to accept natural language prompts as input?,a: Convolutional neural networks | b: Recurrent neural networks | c: Transformer-based neural networks | d: Generative adversarial networks,Transformer-based neural networks
-What are some examples of large language model (LLM) chatbots?,"a: ChatGPT, Copilot, Bard, and LLaMA | b: Stable Diffusion, Midjourney, and DALL-E | c: Microsoft, Google, and Baidu | d: LLM chatbots cannot accept natural language prompts","ChatGPT, Copilot, Bard, and LLaMA"
-In which industries can generative AI be used?,"a: Art, writing, script writing, software development | b: Product design, healthcare, finance, gaming | c: Marketing, fashion | d: All of the above",All of the above
-What are some concerns about the potential misuse of generative AI?,"a: Cybercrime, creation of fake news, production of deepfakes | b: Deception and manipulation of people | c: Both a and b | d: None of the above",Both a and b
+What is generative artificial intelligence (generative AI)?,"a: AI capable of generating text, images, or other media | b: AI capable of understanding natural language prompts | c: AI capable of learning patterns and structures of input data | d: AI capable of creating deepfakes",a
+Which of the following is an example of a large language model (LLM) chatbot?,a: Stable Diffusion | b: Midjourney | c: Copilot | d: DALL-E,c
+In which industries can generative AI be used?,a: Art and writing | b: Software development and product design | c: Healthcare and finance | d: All of the above,d
+Which companies have invested in generative AI?,"a: Microsoft, Google, and Baidu | b: Apple, Amazon, and Facebook | c: IBM, Oracle, and Intel | d: Tesla, SpaceX, and Netflix",a
+What are some concerns associated with generative AI?,a: Cybercrime and fake news | b: Data privacy and security | c: Ethical implications and misuse | d: All of the above,d
