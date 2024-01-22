@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is generative artificial intelligence (generative AI)?,"a: AI capable of generating text, images, or other media | b: AI capable of understanding natural language prompts | c: AI capable of learning patterns and structures of input data | d: AI capable of creating deepfakes",a
-Which of the following is an example of a large language model (LLM) chatbot?,a: Stable Diffusion | b: Midjourney | c: Copilot | d: DALL-E,c
-In which industries can generative AI be used?,a: Art and writing | b: Software development and product design | c: Healthcare and finance | d: All of the above,d
-Which companies have invested in generative AI?,"a: Microsoft, Google, and Baidu | b: Apple, Amazon, and Facebook | c: IBM, Oracle, and Intel | d: Tesla, SpaceX, and Netflix",a
-What are some concerns associated with generative AI?,a: Cybercrime and fake news | b: Data privacy and security | c: Ethical implications and misuse | d: All of the above,d
+What is generative artificial intelligence?,"a: AI that generates text, images, or other media | b: AI that analyzes patterns and structures in data | c: AI that learns from natural language prompts | d: AI that predicts future trends in industries",a
+Which of the following is an example of a generative AI chatbot?,a: Stable Diffusion | b: Copilot | c: Midjourney | d: DALL-E,b
+In which industries can generative AI be used?,"a: Art, writing, and healthcare | b: Finance, gaming, and marketing | c: Software development, product design, and fashion | d: All of the above",d
+Which companies are investing in generative AI?,"a: Microsoft, Google, and Baidu | b: Amazon, Apple, and Facebook | c: Tesla, SpaceX, and Netflix | d: IBM, Oracle, and Adobe",a
+What are some concerns associated with generative AI?,a: Cybercrime and fake news | b: Manipulation of people and deepfakes | c: Both A and B | d: None of the above,c
